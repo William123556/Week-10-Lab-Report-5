@@ -1,4 +1,5 @@
 # Week-10-Lab-Report-5
+
 I run the following line to compare the differences of the two implementations.
 
 vimdiff file1.txt file2.txt
