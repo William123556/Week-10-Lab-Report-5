@@ -2,7 +2,7 @@
 
 I run the following line to compare the differences of the two implementations.
 
-vimdiff file1.txt file2.txt
+vimdiff my-markdown-parser/results.txt cse15lsp22-markdown-parser/results.txt
 
 Provide a link to the test-file with different-results:
 
